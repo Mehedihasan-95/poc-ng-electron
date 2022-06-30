@@ -14,4 +14,8 @@ export class HomeComponent implements OnInit {
     console.log('HomeComponent INIT');
   }
 
+  con(){
+    alert();
+  }
+
 }
