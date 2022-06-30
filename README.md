@@ -1,1 +1,2 @@
-# poc-ng-electron
+# poc on angular-electron
+### project with printer config to print POS / PDF
